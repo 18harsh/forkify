@@ -9,3 +9,7 @@ Technologies Used:
 2. JavaScript No frameworks were used in the development of this application. All functionality was built with vanilla ES6 JavaScript so feel free to dive into the code. 
 
 3. Webpack Webpack was used as the module bundler to incorporate Axios for fetching as well as BABEL for compiling the next-gen JavaScript. 
+
+# Image
+
+![](2020-07-21.png)
